@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Facet Usage in Koha Catalog Searches</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- d3 inserts the chart here -->
+<div id="chart"></div>
+
+<div class="info">
+    <h2>Details</h2>
+    <p>Data collected using Google Analytics from September 1st, 2016 to February 26th, 2017. Each "facet use" consists of a catalog user selecting a link under Koha's "refine your search" sidebar. Searches with preset facets (e.g. a search from the <a href="https://libraries.cca.edu/materials-library">Materials Library</a> home page) would not count.</p>
+    <p>The "x (remove)" entry under some categories occurs when a user <em>removes</em> any facet from their search refinements. Similarly, "Show more" is not the value of a facet but indicates when a user wanted to see more options under the category.</p>
+    <p>Uses <a href="http://bl.ocks.org/ganeshv/6a8e9ada3ab7f2d88022">a d3 treemap zoomable template</a>.</p>
+</div>
+
+<!-- libraries -->
+<script src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<!-- treemap implementation & data loading
+
+ -->
+<script src="main.js"></script>
+
+</body>
+</html>

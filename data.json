@@ -1,0 +1,168 @@
+{
+    "key": "All Facet Usage",
+    "values": [
+        {
+            "key": "Holding Branch",
+            "values": [
+                {
+                    "key": "San Francisco",
+                    "value": 365
+                },
+                {
+                    "key": "Oakland",
+                    "value": 253
+                },
+                {
+                    "key": "Materials Library",
+                    "value": 7
+                },
+                {
+                    "key": "x (remove)",
+                    "value": 14
+                }
+            ]
+        },
+        {
+            "key": "Topic",
+            "values": [
+                {
+                    "key": "Architecture",
+                    "value": 9
+                },
+                {
+                    "key": "Artists' books",
+                    "value": 8
+                },
+                {
+                    "key": "Photography, Artistic",
+                    "value": 6
+                },
+                {
+                    "key": "Show more",
+                    "value": 131
+                },
+                {
+                    "key": "x (remove)",
+                    "value": 17
+                },
+                {
+                    "key": "(other)",
+                    "value": 149
+                }
+            ]
+        },
+        {
+            "key": "Item Type",
+            "values": [
+                {
+                    "key": "DVD",
+                    "value": 108
+                },
+                {
+                    "key": "Book",
+                    "value": 106
+                },
+                {
+                    "key": "Material Sample",
+                    "value": 14
+                },
+                {
+                    "key": "x (remove)",
+                    "value": 12
+                },
+                {
+                    "key": "Library Use DVD",
+                    "value": 10
+                },
+                {
+                    "key": "Show more",
+                    "value": 9
+                },
+                {
+                    "key": "(other)",
+                    "value": 45
+                }
+            ]
+        },
+        {
+            "key": "Author",
+            "values": [
+                {
+                    "key": "Show more",
+                    "value": 75
+                },
+                {
+                    "key": "Dalí, Salvador",
+                    "value": 3
+                },
+                {
+                    "key": "Kruger, Barbara",
+                    "value": 3
+                },
+                {
+                    "key": "(other)",
+                    "value": 116
+                }
+            ]
+        },
+        {
+            "key": "Shelving Location",
+            "values": [
+                {
+                    "key": "Artists' Book",
+                    "value": 42
+                },
+                {
+                    "key": "CCA Thesis Collection",
+                    "value": 17
+                },
+                {
+                    "key": "Audio Visual",
+                    "value": 16
+                },
+                {
+                    "key": "Locked Case",
+                    "value": 16
+                },
+                {
+                    "key": "(other)",
+                    "value": 42
+                },
+                {
+                    "key": "Show more",
+                    "value": 13
+                }
+            ]
+        },
+        {
+            "key": "Availability",
+            "value": 56
+        },
+        {
+            "key": "Series",
+            "values": [
+                {
+                    "key": "California College of the Arts Theses",
+                    "value": 10
+                },
+
+                {
+                    "key": "E-flux journal",
+                    "value": 4
+                },
+                {
+                    "key": "(other)",
+                    "value": 19
+                },
+                {
+                    "key": "Show more",
+                    "value": 18
+                }
+            ]
+        },
+        {
+            "key": "Geographic Subject",
+            "value": 14
+        }
+    ]
+}
