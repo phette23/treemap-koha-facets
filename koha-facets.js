@@ -6,19 +6,19 @@
             "values": [
                 {
                     "key": "San Francisco",
-                    "value": 365
+                    "value": 429
                 },
                 {
                     "key": "Oakland",
-                    "value": 253
+                    "value": 291
                 },
                 {
                     "key": "Materials Library",
-                    "value": 7
+                    "value": 10
                 },
                 {
                     "key": "x (remove)",
-                    "value": 14
+                    "value": 16
                 }
             ]
         },
@@ -27,19 +27,27 @@
             "values": [
                 {
                     "key": "Architecture",
-                    "value": 9
+                    "value": 11
                 },
                 {
                     "key": "Artists' books",
-                    "value": 8
+                    "value": 9
                 },
                 {
                     "key": "Photography, Artistic",
                     "value": 6
                 },
                 {
+                    "key": "Graphic design (Typography)",
+                    "value": 5
+                },
+                {
+                    "key": "Performance Art",
+                    "value": 5
+                },
+                {
                     "key": "Show more",
-                    "value": 131
+                    "value": 144
                 },
                 {
                     "key": "x (remove)",
@@ -47,7 +55,7 @@
                 },
                 {
                     "key": "(other)",
-                    "value": 149
+                    "value": 161
                 }
             ]
         },
@@ -56,31 +64,31 @@
             "values": [
                 {
                     "key": "DVD",
-                    "value": 108
+                    "value": 137
                 },
                 {
                     "key": "Book",
-                    "value": 106
+                    "value": 122
                 },
                 {
                     "key": "Material Sample",
-                    "value": 14
+                    "value": 19
                 },
                 {
                     "key": "x (remove)",
-                    "value": 12
+                    "value": 18
                 },
                 {
                     "key": "Library Use DVD",
-                    "value": 10
+                    "value": 19
                 },
                 {
                     "key": "Show more",
-                    "value": 9
+                    "value": 16
                 },
                 {
                     "key": "(other)",
-                    "value": 45
+                    "value": 54
                 }
             ]
         },
@@ -89,19 +97,32 @@
             "values": [
                 {
                     "key": "Show more",
-                    "value": 75
+                    "value": 84
                 },
                 {
-                    "key": "Dalí, Salvador",
-                    "value": 3
+                    "key": "Doyle, Thomas W.",
+                    "value": 5
                 },
                 {
                     "key": "Kruger, Barbara",
                     "value": 3
                 },
+
+                {
+                    "key": "Conrad, John W.",
+                    "value": 3
+                },
+                {
+                    "key": "Dalí, Salvador,",
+                    "value": 3
+                },
+                {
+                    "key": "Duncan, Julia Hamlin",
+                    "value": 3
+                },
                 {
                     "key": "(other)",
-                    "value": 116
+                    "value": 143
                 }
             ]
         },
@@ -110,23 +131,23 @@
             "values": [
                 {
                     "key": "Artists' Book",
-                    "value": 42
+                    "value": 46
                 },
                 {
                     "key": "CCA Thesis Collection",
-                    "value": 17
+                    "value": 19
                 },
                 {
                     "key": "Audio Visual",
-                    "value": 16
+                    "value": 18
                 },
                 {
                     "key": "Locked Case",
-                    "value": 16
+                    "value": 17
                 },
                 {
                     "key": "(other)",
-                    "value": 42
+                    "value": 49
                 },
                 {
                     "key": "Show more",
@@ -136,14 +157,14 @@
         },
         {
             "key": "Availability",
-            "value": 56
+            "value": 64
         },
         {
             "key": "Series",
             "values": [
                 {
                     "key": "California College of the Arts Theses",
-                    "value": 10
+                    "value": 12
                 },
 
                 {
@@ -152,17 +173,17 @@
                 },
                 {
                     "key": "(other)",
-                    "value": 19
+                    "value": 23
                 },
                 {
                     "key": "Show more",
-                    "value": 18
+                    "value": 19
                 }
             ]
         },
         {
             "key": "Geographic Subject",
-            "value": 14
+            "value": 15
         }
     ]
 }
