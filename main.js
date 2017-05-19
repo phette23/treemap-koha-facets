@@ -233,4 +233,4 @@ function main(o, data) {
   }
 }
 
-d3.json("koha-facets.json", (err, data) => main({title: "Facet Usage in Koha Catalog"}, data))
+d3.json("data.json", (err, data) => main({title: "Facet Usage in Koha Catalog"}, data))
